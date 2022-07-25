@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="leaflet/leaflet.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<title>Poblacion</title>
+</head>
+<body>
+	<div class="contenedor">
+		<div class="container caja" id="app">
+			<div class="centra">
+				<l-map id="mapa" ref="map" :zoom.sync="zoom" :center.sync="center">
+					<l-marker ref="marcador" :lat-lng="marcador"></l-marker>
+					<l-tile-layer :url="url" :attribution="attribution"></l-tile-layer>
+			    </l-map>
+				
+				<div class="caja_select">
+					<label class="etiqueta">Región:</label>
+					<select class="form-select" v-model="regionSeleccionada">
+						<option 
+							v-for="region in regiones" 
+							@click="reseteaMapa(region.latitud, region.longitud, region.zoom, region.nombre, region.poblacion)">
+								{{region.nombre}}
+						</option>
+					</select>
+
+					<label class="etiqueta">Provincias:</label><br>
+					<div class="provincias" v-for="provincia in provincias" v-if="provincia.region === regionSeleccionada">
+						<label class="etiqueta2">{{provincia.nombre}}</label>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/vue.js"></script>
+	<script type="text/javascript" src="leaflet/leaflet.js"></script>
+	<script type="text/javascript" src="js/vue2-leaflet.min.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

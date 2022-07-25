@@ -1,0 +1,114 @@
+[
+    {
+        "nombre": "I Región de Tarapacá", 
+        "latitud": -20.2667, 
+        "longitud": -69.8, 
+        "poblacion": 324930,
+        "zoom": 7
+    },
+    {
+        "nombre": "II Región de Antofagasta", 
+        "latitud": -23.5167, 
+        "longitud": -68.9167,
+        "poblacion": 599335, 
+        "zoom": 7
+    },
+    {
+        "nombre": "III Región de Atacama", 
+        "latitud": -27.36679, 
+        "longitud": -70.3314, 
+        "poblacion": 300000,
+        "zoom": 7
+    },
+    {
+        "nombre": "IV Región de Coquimbo", 
+        "latitud": -30.8333, 
+        "longitud": -70.7, 
+        "poblacion": 742178,
+        "zoom": 7
+    },
+    {
+        "nombre": "V Región de Valparaíso", 
+        "latitud": -32.75, 
+        "longitud": -70.7239,
+        "poblacion": 1790000, 
+        "zoom": 7
+    },
+    {
+        "nombre": "VI Región del Libertador General Bernardo O’Higgins", 
+        "latitud": -34.40639, 
+        "longitud": -70.85834,
+        "poblacion": 908545,
+        "zoom": 7
+    },
+    {
+        "nombre": "VII Región del Maule", 
+        "latitud": -35.4264, 
+        "longitud": -71.65542,
+        "poblacion": 1033000, 
+        "zoom": 7
+    },
+    {
+        "nombre": "VIII Región del Biobío", 
+        "latitud": -37.4667, 
+        "longitud": -72.3537,
+        "poblacion": 1557000,  
+        "zoom": 7
+    },
+    {
+        "nombre": "IX Región de La Araucanía", 
+        "latitud": -38.7333, 
+        "longitud": -72.6667,
+        "poblacion": 938626,
+        "zoom": 7
+    },
+    {
+        "nombre": "X Región de Los Lagos", 
+        "latitud": -42.2997, 
+        "longitud": -73.1155,
+        "poblacion": 823204, 
+        "zoom": 7
+    },
+    {
+        "nombre": "XI Región Aysén del General Carlos Ibáñez del Campo", 
+        "latitud": -47, 
+        "longitud": -74,
+        "poblacion": 102317,
+        "zoom": 6
+    },
+    {   
+        "nombre": "XII Región de Magallanes y Antártica Chilena", 
+        "latitud": -53.1667, 
+        "longitud": -70.9333,
+        "poblacion": 165593,  
+        "zoom":6
+    },
+    {
+        "nombre": "Región Metropolitana de Santiago", 
+        "latitud": -33.4513, 
+        "longitud": -70.6653,
+        "poblacion": 7037000,  
+        "zoom": 7
+    },
+    {
+        "nombre": "XIV Región de Los Ríos", 
+        "latitud": -39.85, 
+        "longitud": -72.8333,
+        "poblacion": 384837,  
+        "zoom": 7
+    },
+    {
+        "nombre": "XV Región de Arica y Parinacota", 
+        "latitud": -18.2, 
+        "longitud": -69.583,
+        "poblacion": 189644, 
+        "zoom": 8
+    },
+    {
+        "nombre": "XVI Región de Ñuble", 
+        "latitud": -36.6, 
+        "longitud": -72.1167,
+        "poblacion": 480609,  
+        "zoom": 7
+    }
+]
