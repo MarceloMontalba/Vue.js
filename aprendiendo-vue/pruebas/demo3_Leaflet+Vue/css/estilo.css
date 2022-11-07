@@ -1,0 +1,69 @@
+.contenedor{
+	padding-top: 20px;
+}
+
+.provincias{
+	padding-top: 20px;
+	display: flex;
+  	justify-content: center;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	background-color: rgb(80,30,30);
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#mapa{
+	width: 65%;
+	height: 560px;
+	box-shadow: 5px 5px 5px black;
+	float:left;
+}
+
+.caja{
+	background-color: rgb(0,123,140);
+	border-radius: 10px;
+	width: 100%;
+	height: 600px;
+	padding-top: 20px;
+	box-shadow: 10px 10px 10px #888;
+}
+
+.caja_select{
+	background-color: rgb(135,135,135);
+	width: 30%;
+	height: 560px;
+	float:left;
+	margin-left: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px black;
+}
+
+.etiqueta{
+	margin-top: 40px;
+	margin-bottom: 7px;
+	font: oblique bold 110% cursive;
+	color: white
+}
+
+.etiqueta2{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font: oblique bold 70% cursive;
+	color: white;
+	text-align: center;
+}
+
+.centra{
+	display: flex;
+  	justify-content: center;
+}
+
+.titulo{
+	font: oblique bold 210% cursive;
+	color:  white;
+}

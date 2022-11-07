@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="../css/my_styles.css">
+	<link rel="stylesheet" href="../css/pushy-buttons.css">
+	<link rel="stylesheet" href="../css/toastr.css">
+	<link rel="stylesheet" type="text/css" href="../css/select2.css">
+
+</head>
+
+<body>
+	<div id="app">
+		<div class="container-fluid ventana">
+			<div class="row">
+				<div class="menu col-2 d-flex align-items-center">
+					<ul>
+						<li>
+							<a href="#" @click = "verTransacciones" class="seleccion1"> 
+								<img src="../css/icons/1.png">
+								<label>TRANSACCIONES</label>
+							</a>
+						</li>
+						<li>
+							<a href="#" @click = "verSubvenciones" class="seleccion2">
+								<img src="../css/icons/2.png">
+								<label>SUBVENCIONES</label>
+							</a>
+						</li>
+						<li>
+							<a href="#" @click = "verProveedores" class="seleccion3">
+								<img src="../css/icons/3.png">
+								<label>PROVEEDORES</label>
+							</a>
+						</li>
+						<li>
+							<a href="#" @click = "verFuncionarios" class="seleccion4">
+								<img src="../css/icons/4.png">
+								<label>FUNCIONARIOS</label>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+				<pantalla class="col-10 container-fluid" v-bind:seleccion="seleccionado" v-bind:tabla="tabla"></pantalla>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		if (typeof module === "object") {
+			window.module = module;
+			module = undefined;
+		}
+	</script>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/select2.js"></script>
+	<script type="text/javascript" src="../js/vue.js"></script>
+	<script type="text/javascript" src="../js/toastr.js"></script>
+	<script type="text/javascript" src="../js/index.js"></script>
+	<script>
+		if (window.module) module = window.module;
+	</script>
+</body>
+</html>

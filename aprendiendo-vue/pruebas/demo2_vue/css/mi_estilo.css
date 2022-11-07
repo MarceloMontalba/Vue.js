@@ -1,0 +1,79 @@
+.calculadora{
+	background-color: rgb(0,123,140);
+	width : 28%;
+	border-radius: 20px;
+	border-style: outset;
+	border-color: black;
+}
+
+.centra-horizontal{
+	padding-top: 40px;
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+}
+
+.contenedor{
+	margin-top: 15%;
+	padding-bottom: 30px;
+}
+
+.pantalla{
+	width: 95%;
+	background-color: rgb(240,240,240);
+	border-radius:  10px;
+	height: 110px;
+	border-style: outset;
+	border-color: black;
+	font-family: 'Digital-7', arial
+}
+
+.operaciones{
+	margin-top: 10px;
+	font-size:  25px;
+	width: 100%;
+	height: 40px;
+	color: rgb(76,76,76);
+	overflow: hidden;
+	text-overflow: clip;
+	text-align: right
+}
+
+.valortotal{
+	margin-top: -30px;
+	font-size:  45px;
+	width: 100%;
+	height: 55px;
+	overflow: hidden;
+	text-overflow: clip;
+	text-align: right
+}
+
+.boton{
+	width: 20%;
+	height: 55px;
+	margin-left :8px;
+}
+
+.boton-mas{
+	width: 20%;
+	height: 100px;
+	margin-left: 22%;
+	border-radius: 30px;
+}
+
+.boton-control{
+	width: 20%;
+	height: 55px;
+	border-radius: 50%;
+	margin-left :8px;
+}
+
+.boton-igual{
+	width: 180px;
+	height: 55px;
+	border-radius: 30px;
+	margin-top: -38px;
+}
