@@ -1,0 +1,226 @@
+[
+    {
+        "nombre": "Iquique", 
+        "region": "I Región de Tarapacá"
+    },
+    {
+        "nombre": "Tamarugal", 
+        "region": "I Región de Tarapacá"
+    },
+    {
+        "nombre": "Antofagasta", 
+        "region": "II Región de Antofagasta"
+    },
+    {
+        "nombre": "El Loa", 
+        "region": "II Región de Antofagasta"
+    },
+    {
+        "nombre": "Tocopilla", 
+        "region": "II Región de Antofagasta"
+    },
+    {
+        "nombre": "Chañaral", 
+        "region": "III Región de Atacama"
+    },
+    {
+        "nombre": "Copiapó", 
+        "region": "III Región de Atacama"
+    },
+    {
+        "nombre": "Huasco", 
+        "region": "III Región de Atacama"
+    },
+    {
+        "nombre": "Choapa", 
+        "region": "IV Región de Coquimbo"
+    },
+    {
+        "nombre": "Elqui", 
+        "region": "IV Región de Coquimbo"
+    },
+    {
+        "nombre": "Limarí", 
+        "region": "IV Región de Coquimbo"
+    },
+    {
+        "nombre": "Isla de Pascua", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "Los Andes", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "Marga Marga", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "Petorca", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "Quillota", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "San Antonio", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "San Felipe de Aconcagua", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "Valparaíso", 
+        "region": "V Región de Valparaíso"
+    },
+    {
+        "nombre": "Cachapoal", 
+        "region": "VI Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+        "nombre": "Cardenal Caro", 
+        "region": "VI Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+        "nombre": "Colchagua", 
+        "region": "VI Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+        "nombre": "Cauquenes", 
+        "region": "VII Región del Maule"
+    },
+    {
+        "nombre": "Curicó", 
+        "region": "VII Región del Maule"
+    },
+    {
+        "nombre": "Linares", 
+        "region": "VII Región del Maule"
+    },
+    {
+        "nombre": "Talca", 
+        "region": "VII Región del Maule"
+    },
+    {
+        "nombre": "Arauco", 
+        "region": "VIII Región del Biobío"
+    },
+    {
+        "nombre": "Biobío", 
+        "region": "VIII Región del Biobío"
+    },
+    {
+        "nombre": "Concepción", 
+        "region": "VIII Región del Biobío"
+    },
+    {
+        "nombre": "Cautín", 
+        "region": "IX Región de La Araucanía"
+    },
+    {
+        "nombre": "Malleco", 
+        "region": "IX Región de La Araucanía"
+    },
+    {
+        "nombre": "Chiloé", 
+        "region": "X Región de Los Lagos"
+    },
+    {
+        "nombre": "Llanquihue", 
+        "region": "X Región de Los Lagos"
+    },
+    {
+        "nombre": "Osorno", 
+        "region": "X Región de Los Lagos"
+    },
+    {
+        "nombre": "Palena", 
+        "region": "X Región de Los Lagos"
+    },
+    {
+        "nombre": "Aysén", 
+        "region": "XI Región Aysén del General Carlos Ibáñez del Campo"
+    },
+    {
+        "nombre": "Capitán Prat", 
+        "region": "XI Región Aysén del General Carlos Ibáñez del Campo"
+    },
+    {
+        "nombre": "Coyhaique", 
+        "region": "XI Región Aysén del General Carlos Ibáñez del Campo"
+    },
+    {
+        "nombre": "General Carrera", 
+        "region": "XI Región Aysén del General Carlos Ibáñez del Campo"
+    },
+    {
+        "nombre": "Antártica Chilena", 
+        "region": "XII Región de Magallanes y Antártica Chilena"
+    },
+    {
+        "nombre": "Magallanes", 
+        "region": "XII Región de Magallanes y Antártica Chilena"
+    },
+    {
+        "nombre": "Tierra del Fuego", 
+        "region": "XII Región de Magallanes y Antártica Chilena"
+    },
+    {
+        "nombre": "Última Esperanza", 
+        "region": "XII Región de Magallanes y Antártica Chilena"
+    },
+    {
+        "nombre": "Chacabuco", 
+        "region": "Región Metropolitana de Santiago"
+    },
+    {
+        "nombre": "Cordillera", 
+        "region": "Región Metropolitana de Santiago"
+    },
+    {
+        "nombre": "Maipo", 
+        "region": "Región Metropolitana de Santiago"
+    },
+    {
+        "nombre": "Melipilla", 
+        "region": "Región Metropolitana de Santiago"
+    },
+    {
+        "nombre": "Santiago", 
+        "region": "Región Metropolitana de Santiago"
+    },
+    {
+        "nombre": "Talagante", 
+        "region": "Región Metropolitana de Santiago"
+    },
+    {
+        "nombre": "Ranco", 
+        "region": "XIV Región de Los Ríos"
+    },
+    {
+        "nombre": "Valdivia", 
+        "region": "XIV Región de Los Ríos"
+    },
+    {
+        "nombre": "Arica", 
+        "region": "XV Región de Arica y Parinacota"
+    },
+    {
+        "nombre": "Parinacota", 
+        "region": "XV Región de Arica y Parinacota"
+    },
+    {
+        "nombre": "Diguillín", 
+        "region": "XVI Región de Ñuble"
+    },
+    {
+        "nombre": "Itata", 
+        "region": "XVI Región de Ñuble"
+    },
+    {
+        "nombre": "Punilla", 
+        "region": "XVI Región de Ñuble"
+    }
+]
